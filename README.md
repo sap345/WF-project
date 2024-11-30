@@ -18,9 +18,13 @@ Dive deeper into the project's concepts and methodologies with the detailed expl
 Requirements: Ensure the following tools are installed on your Linux system:
 
 Volatility: Install from GitHub - VolatilityFoundation.
+
 Binwalk: Install from Kali Linux.
+
 Bulk-extractor: Install from Kali Linux.
+
 Foremost: Install from Kali Linux.
+
 Instructions:
 
 Download the necessary files to explore the project.
