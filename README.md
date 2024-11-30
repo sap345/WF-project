@@ -2,7 +2,7 @@
 this is my windows forensics , a bash script that the user enters HDD/MEM file and analyzing it.
 Project Overview:
 
-This repository showcases a comprehensive Windows Forensics project developed by Ofir Halfin. Explore the intricacies of digital forensics methodologies tailored specifically for Windows operating systems.
+This repository showcases a comprehensive Windows Forensics project developed by Ariel Sapir. Explore the intricacies of digital forensics methodologies tailored specifically for Windows operating systems.
 
 Contents:
 
