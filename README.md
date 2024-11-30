@@ -27,9 +27,12 @@ Foremost: Install from Kali Linux.
 
 Instructions:
 
-Download the necessary files to explore the project.
-Install the required tools on your Linux system if not already installed.
-Follow the instructions provided in the PDF for setting up and running the project.
-Execute the project in the Kali Linux environment using the provided command.
+1.Download the necessary files to explore the project.
+
+2.Install the required tools on your Linux system if not already installed.
+
+3.Follow the instructions provided in the PDF for setting up and running the project.
+
+4.Execute the project in the Kali Linux environment using the provided command.
 
 enjoy using Windows Forensics project by Ariel Sapir
